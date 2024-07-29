@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "terraform-keypair",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
